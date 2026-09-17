@@ -84,3 +84,8 @@ artifacts/shirone-ai-*
 /public/assets/music/
 /public/assets/projects/
 /public/assets/anime/*.webp
+
+# search engine verification files
+/public/baidu_verify_*.html
+/public/BingSiteAuth.xml
+/public/google*.html
